@@ -1,4 +1,4 @@
-**Demo : [https://quirky-wilson-2a065c.netlify.com/](https://quirky-wilson-2a065c.netlify.com/)**
+[![Netlify Status](https://api.netlify.com/api/v1/badges/de923b00-0cdc-42ea-bf70-61574dc53616/deploy-status)](https://app.netlify.com/sites/quirky-wilson-2a065c/deploys)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
